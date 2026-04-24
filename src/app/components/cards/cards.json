@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Appartement atypique vue Notre Dame de la Garde",
+            "description": "CALME ABSOLU. ENTIÈREMENT CLIMATISÉ. Richement équipé avec 3 petites chambres : une en mezzanine, une dans l’entrée de l’appartement (passage obligatoire pour accéder au reste de l’appartement) et une plus grande se situant sous celle en mezzanine. Il est idéalement situé plein centre de la ville à côté de la place Estrangin-préfecture. A 8 min à pieds du vieux port.",
+            "image": "/img/airbnb_01.png"
+        },
+        {
+            "id": 2,
+            "title": "Suite L’Alpina avec Sauna et Baignoire",
+            "description": "Plongez dans une véritable évasion alpine en plein cœur de Lille. Cette suite est totalement coupée du monde extérieur, sans fenêtre ni extérieur, offrant une immersion totale dans une atmosphère chaleureuse et apaisante. Profitez d’un sauna artisanal en brique, d’une baignoire, d’une cheminée et d’une ambiance montagnarde idéale pour une parenthèse hors du temps. Un pack champagne premium est disponible en supplément sur demande , il suffit de nous en faire la demande après votre réservation.",
+            "image": "/img/airbnb_02.png"
+        },
+        {
+            "id": 3,
+            "title": "Loft industriel chic calme Garibaldi climatisation balcon",
+            "description": "✨ LOFT INDUSTRIEL CHIC - PLACE GARIBALDI - Cocon d’architecte (briques, poutres, verrière) au calme absolu sur cour. • RDC : Salon climatisé (TV, canapé convertible confort). Cuisine ultra-équipée (Nespresso, lave-vaisselle, lave-linge). Chambre avec lit 140x200 & rideaux occultants. SDB moderne (douche italienne, WC suspendus). • MEZZANINE : Lit 140x200 via escalier design. 📍 EMPLACEMENT TOP : 2 min Vieux-Nice, 5 min Port. Tram 1 & 2 à 1 min. Le mix parfait entre effervescence et sérénité.",
+            "image": "/img/airbnb_03.png"
+        }
+    ]
+}
