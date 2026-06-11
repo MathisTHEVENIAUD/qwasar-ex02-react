@@ -1,0 +1,10 @@
+type Props = { size?: "sm" | "md" | "lg" };
+
+export default function LoadingSpinner({ size = "md" }: Props) {
+  const dim = { sm: "h-5 w-5", md: "h-8 w-8", lg: "h-12 w-12" }[size];
+  return (
+    <div
+      className={`${dim} animate-spin rounded-full border-4 border-zinc-200 dark:border-zinc-700 border-t-rose-500`}
+    />
+  );
+}
